@@ -1,8 +1,12 @@
-# news_app
+# News_App
 
-A new Flutter project.
+An application to view all categories of news in Egypt using an API
+to get them, used BLoc state management to control the logic of
+the application and the changes of states, also used shared preference
+to store the mood of the app whether it's dark or light.. 
 
-## Getting Started
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
